@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **writing a CS research paper in the future**
 
-- 📫 How to reach me **F3.0H on Discord (discriminator is 1923)**
+- 📫 How to reach me **flamehold on Discord (discriminator is 4706)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
