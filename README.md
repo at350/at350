@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Alan</h1>
+<h1 align="center">Hey, I'm Alan</h1>
 <h3 align="center">Based in California (Pacific Time)</h3>
 
 - 🔭 I’m currently working on a **personal portfolio**
