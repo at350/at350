@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Alan</h1>
 <h3 align="center">Based in California (Pacific Time)</h3>
 
-- 🔭 I’m currently working on a **personal portfolio**
+- 🔭 I’m currently working on a **personal portfolio (I finally got started)**
 
-- 🌱 I’m currently learning **JS, React, SQL, and algorithms/concepts for competitive programming**
+- 🌱 I’m currently learning **JS, React, and algorithms/concepts for competitive programming**
 
 - 👯 I’m looking to collaborate on **hackathons**
 
-- 🤝 I’m looking for help with **writing a CS research paper in the future**
+- 🤝 I’m looking for help with **nothing (ATM)**
 
 - 📫 How to reach me **flamehold on Discord (discriminator is 4706)**
 
