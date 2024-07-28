@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **nothing (ATM)**
 
-- 📫 How to reach me **flamehold on Discord (discriminator is 4706)**
+- 📫 How to reach me **flamehold on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
