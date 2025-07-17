@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **JS, React, and algorithms/concepts for competitive programming**
 
-- 👯 I’m looking to collaborate on **hackathons**
+- 👯 I’m looking to collaborate on **networking**
 
-- 🤝 I’m looking for help with **nothing (ATM)**
+- 🤝 I’m looking for help with **nothing**
 
-- 📫 How to reach me **flamehold on Discord**
+- 📫 How to reach me **@flamehold on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
