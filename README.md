@@ -1,16 +1,6 @@
 <h1 align="center">Hey, I'm Alan</h1>
 <h3 align="center">Based in California (Pacific Time)</h3>
 
-- 🔭 I’m currently working on **school work :)**
-
-- 🌱 I’m currently learning **JS, React, and algorithms/concepts for competitive programming**
-
-- 👯 I’m looking to collaborate on **networking**
-
-- 🤝 I’m looking for help with **nothing**
-
-- 📫 How to reach me **@flamehold on Discord**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/alan_tai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alan_tai1" height="30" width="40" /></a>
