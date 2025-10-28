@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Alan</h1>
-<h3 align="center">Based in California (Pacific Time)</h3>
+<h3 align="center">I'm a student at Northwestern University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
