@@ -13,25 +13,15 @@
 
   <br />
 
-  <!-- About Me Section using a split layout approach -->
-  <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3>👨‍💻 About Me</h3>
-        <ul>
-          <li>🔭 I’m currently working on <strong>startups</strong></li>
-          <li>🌱 I’m currently learning <strong>R</strong></li>
-          <li>👯 I’m looking to collaborate on <strong>ambitious projects</strong></li>
-          <li>💬 Ask me about <strong>my thoughts on AI</strong></li>
-          <li>⚡ Fun fact: <strong>I've been making stuff since middle school</strong></li>
-        </ul>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <!-- A neat little animated coding GIF -->
-        <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/coding.gif" width="300" alt="Coding Animation" />
-      </td>
-    </tr>
-  </table>
+  <h3>👨‍💻 About Me</h3>
+  <ul>
+    <li>🔭 I’m currently working on <strong>startups</strong></li>
+    <li>🌱 I’m currently learning <strong>R</strong></li>
+    <li>👯 I’m looking to collaborate on <strong>ambitious projects</strong></li>
+    <li>💬 Ask me about <strong>my thoughts on AI</strong></li>
+    <li>⚡ Fun fact: <strong>I've been making stuff since middle school</strong></li>
+  </ul>
+
 
   <br />
 
