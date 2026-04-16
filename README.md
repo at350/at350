@@ -1,12 +1,149 @@
-<h1 align="center">Hey, I'm Alan</h1>
-<h3 align="center">I'm a student at Northwestern University</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Profile README Preview</title>
+  <style>
+    /* Styling to mimic GitHub's Dark Mode environment */
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+      line-height: 1.5;
+      color: #c9d1d9;
+      background-color: #0d1117;
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    
+    h2, h3 {
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 0.3em;
+      margin-top: 24px;
+      margin-bottom: 16px;
+      font-weight: 600;
+    }
+    
+    h2 { font-size: 1.5em; }
+    h3 { font-size: 1.25em; border-bottom: none; }
+    
+    ul {
+      padding-left: 2em;
+      margin-top: 0;
+      margin-bottom: 16px;
+      line-height: 1.8;
+    }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/alan_tai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alan_tai1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alan-tai-258b66238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-tai-258b66238" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alantai19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alantai19" height="30" width="40" /></a>
-</p>
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+    a:hover {
+      text-decoration: underline;
+    }
+
+    img {
+      max-width: 100%;
+      box-sizing: content-box;
+    }
+
+    .center {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12,13&height=250&section=header&text=Hi%20there,%20I'm%20AT350!&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner"/>
+
+  <h2 class="center" style="border: none;">A passionate developer crafting beautiful experiences on the web 🚀</h2>
+
+  <div class="center">
+    <p>
+      I'm a software developer who loves building innovative solutions and constantly learning new technologies. Welcome to my GitHub profile where I share my open-source projects and coding journey.
+    </p>
+  </div>
+
+  <br />
+
+  <!-- About Me Section using a split layout approach -->
+  <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>👨‍💻 About Me</h3>
+        <ul>
+          <li>🔭 I’m currently working on <strong>[Your Current Project]</strong></li>
+          <li>🌱 I’m currently learning <strong>[Technologies you are learning]</strong></li>
+          <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
+          <li>💬 Ask me about <strong>[Your Core Skills/Interests]</strong></li>
+          <li>⚡ Fun fact: <strong>[Add a fun fact about yourself!]</strong></li>
+        </ul>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <!-- A neat little animated coding GIF -->
+        <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/coding.gif" width="300" alt="Coding Animation" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <h2 class="center">🛠️ Tech Stack & Skills</h2>
+
+  <p class="center">
+    <a href="https://skillicons.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&perline=6" alt="Languages" />
+    </a>
+  </p>
+  <p class="center">
+    <a href="https://skillicons.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,sass&perline=6" alt="Frameworks" />
+    </a>
+  </p>
+  <p class="center">
+    <a href="https://skillicons.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,postgres,vscode,figma&perline=8" alt="Tools" />
+    </a>
+  </p>
+
+  <br />
+
+  <h2 class="center">📈 My GitHub Stats</h2>
+
+  <div class="center">
+    <a href="https://github.com/at350" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=at350&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="at350's GitHub Stats" />
+    </a>
+    <a href="https://github.com/at350" target="_blank">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=at350&theme=tokyonight&hide_border=true&background=0D1117" alt="at350's Streak Stats" />
+    </a>
+  </div>
+
+  <br />
+  <br />
+
+  <h2 class="center">📫 Let's Connect!</h2>
+
+  <p class="center">
+    <!-- Replace the href links with your actual profile URLs -->
+    <a href="https://linkedin.com/in/your-profile" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/your-handle" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://yourportfolio.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+
+  <!-- Invisible spacer for bottom padding -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50" width="100%" alt=""/>
+
+</body>
+</html>
