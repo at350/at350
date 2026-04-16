@@ -3,7 +3,7 @@
   <!-- Dynamic Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12,13&height=250&section=header&text=Hi%20there,%20I'm%20Alan!&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner"/>
 
-  <h2 class="center" style="border: none;">Student at Northwestern University</h2>
+  <h2 class="center" style="border: none;">I'm a Student at Northwestern University</h2>
 
   <div class="center">
     <p>
