@@ -15,9 +15,9 @@
 
   <h3>👨‍💻 About Me</h3>
   <ul>
-    <li>🔭 I’m currently working on <strong>startups</strong></li>
-    <li>🌱 I’m currently learning <strong>R</strong></li>
-    <li>👯 I’m looking to collaborate on <strong>ambitious projects</strong></li>
+    <li>🔭 I’m currently working on <strong>startup-related work</strong></li>
+    <li>🌱 I’m currently learning <strong>R, SQL, and MCPs/skills</strong></li> (for school)
+    <li>👯 I’m looking to collaborate on <strong>ambitious projects that'll change the world</strong></li>
     <li>💬 Ask me about <strong>my thoughts on AI</strong></li>
     <li>⚡ Fun fact: <strong>I've been making stuff since middle school</strong></li>
   </ul>
