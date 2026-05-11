@@ -7,7 +7,7 @@
 
   <div class="center">
     <p>
-      I'm someone who loves building projects and constantly learning new technologies. Welcome to my GitHub profile.
+      I'm someone who loves building projects and constantly learning new technologies. Welcome to my GitHub profile. And yes, I need to update this page.
     </p>
   </div>
 
@@ -16,7 +16,7 @@
   <h3>👨‍💻 About Me</h3>
   <ul>
     <li>🔭 I’m currently working on <strong>startup-related work</strong></li>
-    <li>🌱 I’m currently learning <strong>R, SQL, and MCPs/skills</strong></li> (for school)
+    <li>🌱 I’m currently learning <strong>R, SQL, and MCPs/skills</strong>(for school)</li>
     <li>👯 I’m looking to collaborate on <strong>ambitious projects that'll change the world</strong></li>
     <li>💬 Ask me about <strong>my thoughts on AI</strong></li>
     <li>⚡ Fun fact: <strong>I've been making stuff since middle school</strong></li>
