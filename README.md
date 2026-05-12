@@ -21,8 +21,6 @@
 
 </div>
 
-<br />
-
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working on **startup-related work**
@@ -30,8 +28,6 @@
 - 👯 I'm looking to collaborate on **ambitious projects that'll change the world**
 - 💬 Ask me about **my thoughts on AI**
 - ⚡ Fun fact: **I've been making stuff since middle school**
-
-<br />
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider"/>
@@ -60,8 +56,6 @@
 
 </div>
 
-<br />
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider"/>
 
 <h2 align="center">📈 GitHub Stats</h2>
@@ -83,8 +77,6 @@
 
 </div>
 
-<br />
-
 <h3 align="center">🏆 Trophies</h3>
 
 <div align="center">
@@ -92,8 +84,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=at350&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
   </a>
 </div>
-
-<br />
 
 <h3 align="center">📊 Contribution Graph</h3>
 
