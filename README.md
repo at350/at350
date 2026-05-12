@@ -59,16 +59,16 @@
 <div align="center">
 
   <a href="https://github.com/at350" target="_blank">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=at350&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="at350's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=at350&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=86400" alt="at350's GitHub Stats" />
   </a>
   <a href="https://github.com/at350" target="_blank">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=at350&theme=tokyonight&hide_border=true&background=0D1117" alt="at350's Streak Stats" />
+    <img height="180" src="https://streak-stats.demolab.com?user=at350&theme=tokyonight&hide_border=true&background=0D1117" alt="at350's Streak Stats" />
   </a>
 
   <br /><br />
 
   <a href="https://github.com/at350" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=at350&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=at350&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=86400" alt="Top Languages" />
   </a>
 
 </div>
