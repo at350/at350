@@ -16,7 +16,7 @@
 
   <p>
     <i>I'm someone who loves building projects and constantly learning new technologies.<br/>
-    Welcome to my GitHub profile. And yes, I need to update this page.</i>
+    Welcome to my GitHub profile.</i>
   </p>
 
 </div>
