@@ -29,8 +29,6 @@
 - 💬 Ask me about **my thoughts on AI**
 - ⚡ Fun fact: **I've been making stuff since middle school**
 
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider"/>
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
@@ -55,8 +53,6 @@
 </a>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider"/>
 
 <h2 align="center">📈 GitHub Stats</h2>
 
@@ -93,8 +89,6 @@
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider"/>
-
 <h2 align="center">💭 Quote of the Day</h2>
 
 <div align="center">
@@ -102,8 +96,6 @@
 </div>
 
 <br />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="divider"/>
 
 <h2 align="center">📫 Let's Connect!</h2>
 
