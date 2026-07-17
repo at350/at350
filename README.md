@@ -102,7 +102,7 @@
   <a href="https://linkedin.com/in/alan-tai-nu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/at350" target="_blank">
+  <a href="https://x.com/alan_tai1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:alantai2029@u.northwestern.edu">
