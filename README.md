@@ -4,7 +4,7 @@ I build AI evaluation systems and multi-agent tools, mostly in Python and TypeSc
 
 Before software I ran a 65-person newsroom and won a national debate title. Strange background for an engineer, and the most useful one I could have asked for: I still think the hard part of any system is explaining why it did what it did.
 
-### 🧰 What I actually use
+### 🧰 What I use
 
 **AI/ML**, the main event: LLM evaluation, RAG, LangGraph and multi-agent orchestration, embeddings and clustering
 
