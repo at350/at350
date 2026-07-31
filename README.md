@@ -51,7 +51,7 @@ Start with **tr-benchmarking** if you want to see how I think about hard problem
 
 ### 📊 Stats
 
-[![at350's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=at350&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=86400)](https://github.com/at350)
+[![at350's GitHub Stats](https://github-stats-extended.vercel.app/api?username=at350&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=86400)](https://github.com/at350)
 
 ### 📫 Say hi
 
