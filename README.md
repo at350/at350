@@ -45,10 +45,6 @@ A credit profile for the 45 million people the US credit system can't see. Turns
 
 **WingRep.** GTM engineering, building AI outbound pipelines.
 
-### 🗺️ If you're browsing
-
-Start with **tr-benchmarking** if you want to see how I think about hard problems. It has the longest README and the most interesting failure modes. Open **Architec** or **Arrival** if you'd rather see something shipped and live. The archived 2022 repos are from high school, kept for the timeline rather than the code.
-
 ### 📊 Stats
 
 [![at350's GitHub Stats](https://github-stats-extended.vercel.app/api?username=at350&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=86400)](https://github.com/at350)
