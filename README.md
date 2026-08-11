@@ -20,13 +20,13 @@ Before software I ran a 65-person newsroom and won a national debate title. Stra
 
 ### 📌 Featured work
 
-Most of what I build now lives in private startup and research repos. These are the public ones. Four of them sit under a teammate's account because that's where we started them, and I'm the top contributor by commit count on all five.
+Most of what I build now lives in private startup and research repos. These are the public ones. Four of them sit under teammates' accounts because that's where we started them. GitHub lists me as the top contributor by commit count on each of those four.
 
 **[tr-benchmarking](https://github.com/at350/tr-benchmarking)** (Thomson Reuters, CS+Law Innovation Lab)
 Reasoning-level evaluation for legal LLMs. Forces IRAC-structured output, embeds it, then clusters with UMAP and HDBSCAN to find where models diverge doctrinally. Adversarial poisoning tests prove the clustering actually isolates bad reasoning. Cut expert review time by 90%.
 
 **[Architec](https://github.com/sarakhan7/wildhacks)** (WildHacks, 3rd of 70 + track win)
-Energy audits that normally cost $50k, done in 10 minutes. Gemini reads your utility bills, weather-normalized regression splits heating from cooling from baseload, and a Three.js digital twin shows where the building leaks heat. Live at architec.tech.
+Energy audits that normally cost $50k, done in 10 minutes. Gemini reads your utility bills, weather-normalized regression splits heating from cooling from baseload, and a Three.js digital twin shows where the building leaks heat.
 
 **[LaborLens](https://github.com/Inika-Goyal/UncommonHacks)** (Uncommon Hacks, Social Impact finalist)
 Seven-agent LangGraph swarm that traces labor-exploitation risk through a supply chain, pulling from news, sanctions lists, court records, and country risk indices, and citing every finding.
@@ -41,7 +41,7 @@ A credit profile for the 45 million people the US credit system can't see. Turns
 
 **Meritus Labs.** LLM evaluation infrastructure, a quality layer for teams putting AI in front of customers.
 
-**Northwestern Medicine (FORGE).** Dermatopathology image classification, in the inaugural research cohort.
+**Northwestern Medicine (FORGE).** Weakly supervised models predicting MSI from colorectal whole-slide histology, in the inaugural research cohort.
 
 **WingRep.** GTM engineering, building AI outbound pipelines.
 
