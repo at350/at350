@@ -53,4 +53,4 @@ A credit profile for the 45 million people the US credit system can't see. Turns
 
 I'm looking for **Winter and Summer 2027 internships** in AI/ML, evaluation, and data systems. Always happy to talk about agent architectures, or about why your eval suite is lying to you.
 
-[Portfolio](https://at350.github.io/personal-website/) | [LinkedIn](https://linkedin.com/in/alan-tai-nu) | [Twitter](https://x.com/alan_tai1) | alantai@u.northwestern.edu
+[LinkedIn](https://linkedin.com/in/alan-tai-nu) | [Twitter](https://x.com/alan_tai1) | alantai@u.northwestern.edu
